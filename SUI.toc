@@ -1,20 +1,46 @@
 ## Interface: 90002
 ## Author: Syiana
-## Version: 9.0
-## Title: |cfff58cbaS|r|cff009cffUI ALPHA|r
-## Notes: SUI v9.0 by Syiana
+## Version: 8.99.7
+## Title: |cfff58cbaS|r|cff009cffUI|r
+## Notes: SUI v8.99.7 by Syiana
 ## SavedVariables: SUIDB
 
-## LIBS
-
 ## CONFIG
-Inc\Config\Config.xml
+inc\config.lua
+inc\edit.lua
 
-## MODULES
-Inc\Modules\Modules.xml
+## UI
+inc\core\fonts.lua
+inc\core\core.lua
+inc\core\actionbars.lua
+inc\core\unitframes.lua
+inc\core\raidframe.lua
+inc\core\buffs.lua
+inc\core\auras.lua
+inc\core\castbars.lua
+inc\core\tooltip.lua
+inc\core\minimap.lua
+inc\core\chat.lua
 
-## INIT
-Inc\Init.lua
-
-## EDIT
-Inc\Config\Functions\Edit.lua
+## MISCS
+inc\misc\range.lua
+inc\misc\losecontrol.lua
+inc\misc\incombat.lua
+inc\misc\charlinks.lua
+inc\misc\stats.lua
+inc\misc\safequeue.lua
+inc\misc\showraid.lua
+inc\misc\interrupt.lua
+inc\misc\autorep.lua
+inc\misc\itemlevel.lua
+inc\misc\easydelete.lua
+inc\misc\friendlist.lua
+inc\misc\tabbinder.lua
+inc\misc\keypress.lua
+inc\misc\shortbar.lua
+inc\misc\invismenu.lua
+inc\misc\coords.lua
+inc\misc\autorelease.lua
+inc\misc\declineduel.lua
+inc\misc\grid.lua
+inc\misc\skins.lua
