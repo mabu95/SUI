@@ -437,7 +437,7 @@ function Module:OnEnable()
 	QuestLogFrame.Material = QuestLogFrame:CreateTexture(nil, 'OVERLAY', nil, 7)
 	QuestLogFrame.Material:SetTexture[[Interface\AddOns\SUI\Media\Textures\UnitFrames\Quest\QuestBG.tga]]
 	QuestLogFrame.Material:SetWidth(514)
-	QuestLogFrame.Material:SetHeight(400)
+	QuestLogFrame.Material:SetHeight(620)
 	QuestLogFrame.Material:SetPoint('TOPLEFT', QuestLogDetailScrollFrame, 0, 0)
 	QuestLogFrame.Material:SetVertexColor(.7, .7, .7)
 
