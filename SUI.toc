@@ -1,6 +1,6 @@
 ## Interface: 20504
 ## Author: Muleyo & Syiana
-## Version: TBCC
+## Version: 1.15
 ## Title: |cfff58cbaS|r|cff009cffUI|r Classic
 ## Notes: Made with <3 by Syiana & Muleyo
 ## SavedVariables: SUIDB

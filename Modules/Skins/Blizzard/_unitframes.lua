@@ -416,7 +416,7 @@ function Module:OnEnable()
 	SpellBookFrame.Material:SetWidth(547)
 	SpellBookFrame.Material:SetHeight(541)
 	SpellBookFrame.Material:SetPoint('TOPLEFT', SpellBookFrame, 22, -74)
-	SpellBookFrame.Material:SetVertexColor(unpack(SUI:Color(0.15)))
+	--SpellBookFrame.Material:SetVertexColor(unpack(SUI:Color(0.000000001)))
 
 	-- Social Frame
 	local a, b, c, d, e, f, g, _, i, j, k, l, n, o, p, q, r, _, _ = FriendsFrame:GetRegions()
